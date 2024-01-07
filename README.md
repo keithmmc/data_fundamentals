@@ -6,7 +6,6 @@ This repository contains coursework created and maintained as part of the module
 
 The repository contains two Jupyter notebooks
 
-
 tasks.ipynb (contains my answers to assessment tasks set out by the module lecturer, accounts for 50% of the module assessment)
 project.ipynb (contains my code and notes for the project assessment set out by the module lecturer, accounts for 50% of the module assessment)
 Other content in the repository is a .gitignore file which specifies intentionally untracked files that Git should ignore.
